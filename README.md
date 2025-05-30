@@ -19,7 +19,7 @@ Uma página de formulário de cadastro responsivo, usando HTML e CSS. <br/>
 <br>
 
 <p align="center">
-  <img alt="projeto Formulario de Cadastro" src=".github/preview.jpg" >
+  <img alt="projeto Formulario de Cadastro" src=".github/preview.jpg" width="100%" >
 </p>
 
 ## 🚀 Tecnologias
